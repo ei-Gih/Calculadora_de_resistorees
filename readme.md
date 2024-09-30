@@ -28,13 +28,13 @@ Para rodar o projeto, você vai precisar de:
    ```bash
    git clone https://github.com/ei-Gih/Calculadora_de_resistorees.git
 
-Como Usar a Calculadora? 🔍
+### Como Usar a Calculadora? 🔍
 Assim que o programa estiver rodando, você poderá inserir as cores das bandas do resistor e ele vai calcular o valor para você.
-1. Clone este repositório:
+1. Exemplo:
    ```bash
    Digite as cores das bandas do resistor (exemplo: marrom, preto, vermelho): O valor do resistor é: 1000 ohms.
    
 Super simples, né? Sem precisar consultar tabelas, tudo na ponta dos dedos!
 
-Como Contribuir? 🤝
+### Como Contribuir? 🤝
 Gostou do projeto e tem ideias para melhorias? Encontrou um bug? Abra uma issue ou envie um pull request. Toda ajuda é bem-vinda para deixar a calculadora ainda mais prática e funcional!
